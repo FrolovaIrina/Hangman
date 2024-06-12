@@ -1,0 +1,30 @@
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	margin: 20px;
+}
+
+#alphabet {
+	margin-top: 10px;
+}
+
+#alphabet button {
+	margin: 5px;
+	padding: 10px;
+	font-size: 14px;
+}
+
+
+#word {
+	font-size: 20px;
+	margin-top: 20px;
+	letter-spacing: 10px;
+}
+
+#peli {
+	margin-top: 20px;
+}
+
+#peli img {
+	max-width: 300px;
+}
